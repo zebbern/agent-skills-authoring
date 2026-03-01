@@ -7,11 +7,11 @@ description: >-
   an Agent Skill.
 license: MIT
 compatibility: >-
-  Any AI agent generating SKILL.md files. Follows the Agent Skills specification (agentskills.io).
+  Any AI agent generating SKILL.md files. Follows the Agent Skills specification.
 metadata:
-  spec-version: "1.0"
+  spec-version: "1.1"
   last-verified: "2026-03-01"
-  source: "https://agentskills.io/specification"
+  source: "https://github.com/zebbern/agent-skills-guide"
   audience: "ai-agents"
 allowed-tools: skills-ref
 ---
