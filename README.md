@@ -5,12 +5,10 @@ description: >-
   from user requests. Covers all YAML frontmatter fields, body structure, progressive
   disclosure, and quality patterns. Use when a user asks you to create, edit, or improve
   an Agent Skill.
-license: MIT
 compatibility: >-
   Any AI agent generating SKILL.md files. Follows the Agent Skills specification.
 metadata:
   spec-version: "1.1"
-  last-verified: "2026-03-01"
   source: "https://github.com/zebbern/agent-skills-guide"
   audience: "ai-agents"
 allowed-tools: skills-ref
