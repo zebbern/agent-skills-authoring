@@ -1,0 +1,7 @@
+{
+  "name": "skills",
+  "skills": [
+    "./goal-creator",
+    "./claude-code-project"
+  ]
+}
